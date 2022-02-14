@@ -27,17 +27,17 @@ title: tigerya's Blog
 description: "Keep running, without Fear."
 keywords: 'blog'
 author:
-  name: Authur Lee
+  name: Authur tigerya
   job_title:
-  location: Beijing, China
-  email: yiwulichen@gmail.com
+  location: Guangdong, China
+  email: qq2679722517@gmail.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/AuthurWhywait
+      url: https://github.com/tigerya214
     - name: instagram
-      url: https://www.instagram.com/authur_lee/
+      url: 
     - name: linkedin
       url:
     - name: stackoverflow
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Lee's Blog</h1>
+  section1: <h1>tigerya's Blog</h1>
   section2: <h2>All things are difficult before they are easy.</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/AuthurWhywait" title="View on GitHub"></a></div>
 blog:
