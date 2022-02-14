@@ -23,7 +23,7 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: tigerya's Blog
+title: Tigerya's Blog
 description: "Keep running, without Fear."
 keywords: 'blog'
 author:
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>tigerya's Blog</h1>
+  section1: <h1>Tigerya's Blog</h1>
   section2: <h2>All things are difficult before they are easy.</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://https://github.com/tigerya214" title="View on GitHub"></a></div>
 blog:
