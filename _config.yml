@@ -49,7 +49,7 @@ author:
 home:
   section1: <h1>Tigerya's Blog</h1>
   section2: <h2>All things are difficult before they are easy.</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://https://github.com/tigerya214" title="View on GitHub"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/tigerya214" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
