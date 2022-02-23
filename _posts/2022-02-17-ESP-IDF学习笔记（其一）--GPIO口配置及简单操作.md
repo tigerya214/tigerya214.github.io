@@ -62,4 +62,4 @@ void app_main(void)
 
 ~~~
 
-![](https://s2.loli.net/2022/02/21/dNGqQVs269rvtKh.jpg)
+<img src="https://s2.loli.net/2022/02/21/dNGqQVs269rvtKh.jpg" style="zoom:67%;" />
